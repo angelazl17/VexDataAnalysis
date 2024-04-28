@@ -1,0 +1,82 @@
+	Unnamed: 0_x	TeamId	TeamNumber	Max_Driver_Skill	Max_Programming_Skill	Total_Awards	count_champion	count_finalists	count_excellence	count_skillChampion	count_design	count_judge	Unnamed: 0_y	tsRanking	teamNumber	teamName	eventRegion	locCountry	trueskill	ccwm	opr	dpr	MiddleSchoolRank
+0	0	155679	38T	131.0	107.0	4.0	2.0	0.0	1.0	0.0	0.0	0.0	896.0	897.0	38T	Mr. Tank	Michigan	United States	22.8	0.0	46.7	46.8	147.0
+1	1	51094	80Y	219.0	170.0	7.0	2.0	1.0	1.0	2.0	0.0	0.0	404.0	404.0	80Y	VEXMEN: Nocturne	Pennsylvania - East	United States	24.2	29.1	56.5	27.3	52.0
+2	2	133057	293T	143.0	143.0	4.0	0.0	0.0	1.0	1.0	0.0	0.0	3868.0	3867.0	293T	Solstice	Pennsylvania - East	United States	19.0	10.8	54.1	43.3	1017.0
+3	3	111779	355T	100.0	85.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	3315.0	3314.0	355T	Thunderbirds	Illinois	United States	19.6	0.0	40.6	40.6	840.0
+4	4	114797	462Z	148.0	139.0	12.0	2.0	2.0	2.0	1.0	1.0	0.0	254.0	253.0	462Z	Wolverines	California - Region 4	United States	24.9	17.3	51.6	34.3	30.0
+5	5	130546	663S	160.0	129.0	13.0	5.0	0.0	1.0	2.0	0.0	0.0	442.0	439.0	663S	Vegan Cheese	Tennessee	United States	24.1	37.2	65.1	27.9	57.0
+6	6	148436	936D			1.0	1.0	0.0	0.0	0.0	0.0	0.0											
+7	7	40102	1028J	147.0	110.0	5.0	1.0	2.0	0.0	1.0	0.0	0.0	1410.0	1406.0	1028J	Water Game	Nebraska	United States	21.9	11.0	51.8	40.8	282.0
+8	8	77488	1100A	142.0	152.0	3.0	0.0	0.0	1.0	1.0	0.0	0.0	6751.0	6747.0	1100A	Flaming Tigers	South Korea	Korea, Republic of	16.2	17.0	66.4	49.3	1888.0
+9	9	161210	1247D	100.0	87.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	3685.0	3678.0	1247D	The Challengers	Texas - Region 3	United States	19.2	9.2	36.9	27.7	957.0
+10	10	52930	1338B	117.0	100.0	6.0	2.0	1.0	1.0	0.0	2.0	0.0	562.0	555.0	1338B	Blue HEAT	Arkansas	United States	23.7	18.1	53.5	35.5	73.0
+11	11	19591	1481H	164.0	124.0	2.0	0.0	0.0	1.0	1.0	0.0	0.0	1846.0	1835.0	1481H	Robohawks	Virginia	United States	21.3	32.8	61.1	28.4	387.0
+12	12	153484	1806A	124.0	101.0	3.0	0.0	1.0	0.0	0.0	0.0	0.0	1849.0	1835.0	1806A	Pandora	California - Region 2	United States	21.3	-0.9	43.1	44.0	393.0
+13	13	143736	1920D	84.0	83.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	906.0	897.0	1920D	CONEheads	California - Region 3	United States	22.8	7.3	29.4	22.1	145.0
+14	14	81062	2036A	70.0	29.0	3.0	3.0	0.0	0.0	0.0	0.0	0.0	131.0	127.0	2036A	I’m Diamond One	Kansas	United States	25.8	13.9	47.4	33.5	15.0
+15	15	164125	2252V	148.0	97.0	3.0	0.0	2.0	1.0	0.0	0.0	0.0	4742.0	4718.0	2252V	CIMATEC	Puerto Rico	Puerto Rico	18.2	-10.1	41.9	52.0	1283.0
+16	16	148531	2668A	142.0	107.0	6.0	0.0	2.0	1.0	2.0	1.0	0.0	1632.0	1613.0	2668A	Ribbit Robotics	Texas - Region 4	United States	21.6	20.0	60.0	39.9	334.0
+17	17	72761	2915E	155.0	138.0	3.0	1.0	0.0	1.0	1.0	0.0	0.0	567.0	555.0	2915E	Lynfield College E	New Zealand	New Zealand	23.7	36.1	66.4	30.3	74.0
+18	18	156356	3221K	198.0	129.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	1076.0	1060.0	3221K	A.C.E.	California - Region 4	United States	22.5	1.2	42.7	41.5	197.0
+19	19	154660	3333T	114.0	87.0	2.0	0.0	0.0	2.0	0.0	0.0	0.0	866.0	851.0	3333T	Tornado Troopers	Michigan	United States	22.9	17.2	58.8	41.6	132.0
+20	20	23632	3590A	149.0	76.0	3.0	1.0	0.0	0.0	0.0	0.0	0.0	1242.0	1225.0	3590A	Hawaiian Kids	Hawaii	United States	22.2	25.6	64.6	39.0	238.0
+21	21	164043	4205J	104.0	65.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	10987.0	10984.0	4205J	JEXSSA	Colombia	Colombia	9.1	-4.3	54.8	59.1	2787.0
+22	22	73163	4610K	140.0	113.0	2.0	0.0	0.0	1.0	1.0	0.0	0.0	6653.0	6639.0	4610K	Robot Rev : Klassick	New Jersey	United States	16.3	-9.9	24.6	34.6	1861.0
+23	23	110193	4613S	71.0	85.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4503.0	4476.0	4613S	Barker Bluebacks	Australia	Australia	18.4	-11.8	38.9	50.8	1205.0
+24	24	38353	5233J	83.0	46.0	9.0	4.0	0.0	0.0	0.0	0.0	0.0	709.0	695.0	5233J	Watch This	Nebraska	United States	23.3	25.4	57.0	31.6	100.0
+25	25	49064	6356D	158.0	109.0	6.0	3.0	0.0	1.0	1.0	0.0	0.0	391.0	382.0	6356D	RoBozos	Colorado	United States	24.3	23.4	54.9	31.4	51.0
+26	26	149548	7368M	151.0	126.0	3.0	1.0	0.0	0.0	0.0	0.0	0.0	1249.0	1225.0	7368M	Drive it LIKE you stole it	Indiana	United States	22.2	0.4	45.5	45.1	236.0
+27	27	112381	7481B	77.0	50.0	5.0	0.0	1.0	0.0	0.0	2.0	0.0	3253.0	3221.0	7481B	Red Pandamonium	Texas - Region 3	United States	19.7	-10.5	34.1	44.6	821.0
+28	28	142585	7700H	182.0	145.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	1869.0	1835.0	7700H	Rolling Robots Humuhumunukunukuapua	California - Region 4	United States	21.3	-6.9	43.9	50.8	380.0
+29	29	142050	7830N	141.0	94.0	5.0	1.0	0.0	1.0	0.0	1.0	0.0	498.0	483.0	7830N	ACP Noble Knights	Arizona	United States	23.9	29.9	67.8	37.8	65.0
+30	30	157111	7899C	133.0	80.0	2.0	2.0	0.0	0.0	0.0	0.0	0.0	1187.0	1168.0	7899C	Rolling Robots	California - Region 4	United States	22.3	18.5	50.4	31.8	226.0
+31	31	39760	8193D	196.0	165.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	2801.0	2772.0	8193D	Shanghai Yongchang D	China	China	20.2	19.5	66.7	47.2	660.0
+32	32	55589	8838A	164.0	107.0	2.0	0.0	0.0	1.0	1.0	0.0	0.0	2802.0	2772.0	8838A	Robohawks - Potentia	California - Region 4	United States	20.2	1.2	40.9	39.7	661.0
+33	33	125701	9039K	84.0	77.0	3.0	2.0	0.0	0.0	0.0	0.0	0.0	1730.0	1688.0	9039K	BrandywineBOTS: Tiny Gladiator	Delmarva	United States	21.5	24.9	62.9	38.0	348.0
+34	34	112709	9181G	185.0	151.0	2.0	0.0	1.0	0.0	0.0	1.0	0.0	3077.0	3028.0	9181G	Ghost	British Columbia (BC)	Canada	19.9	-10.6	45.6	56.1	719.0
+35	35	52942	9447A	164.0	118.0	5.0	1.0	1.0	2.0	0.0	0.0	0.0	782.0	764.0	9447A	RoboPhoenixes	South Carolina	United States	23.1	21.3	59.6	38.4	108.0
+36	36	54496	9791B	102.0	84.0	3.0	0.0	0.0	1.0	0.0	1.0	0.0	2810.0	2772.0	9791B	WalshBots - Blue Avocados	Southern New England	United States	20.2	-6.3	23.4	29.8	646.0
+37	37	112613	10012Y	193.0	177.0	7.0	0.0	1.0	0.0	2.0	0.0	0.0	620.0	592.0	10012Y	Ten Ton Robotics	British Columbia (BC)	Canada	23.6	12.8	65.8	53.0	86.0
+38	38	73561	10173X	107.0	89.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5890.0	5869.0	10173X	HBS Momentum	United Kingdom	United Kingdom	17.1	-28.7	27.0	55.7	1639.0
+39	39	139869	12161A	97.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	5995.0	5959.0	12161A	Alchemists	Texas - Region 5	United States	17.0	-18.3	29.8	48.1	1655.0
+40	40	153705	13140A	176.0	180.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	2375.0	2338.0	13140A	AK-13140	China	China	20.7	6.6	58.6	52.0	529.0
+41	41	159600	13765K	138.0	100.0	4.0	1.0	1.0	0.0	0.0	1.0	0.0	1375.0	1337.0	13765K	MTS_Hydra	United Kingdom	United Kingdom	22.0	9.7	53.1	43.5	264.0
+42	42	154964	16689E	154.0	106.0	2.0	0.0	1.0	1.0	0.0	0.0	0.0	2560.0	2506.0	16689E	//Dracobots MS// EXtreme	Oregon	United States	20.5	12.3	38.8	26.4	569.0
+43	43	157806	17760R	99.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	10260.0	10244.0	17760R	Victory VEXXERS	District of Columbia	United States	11.2	-25.9	26.4	52.3	2680.0
+44	44	154415	18422A	157.0	133.0	6.0	4.0	0.0	0.0	1.0	0.0	0.0	189.0	178.0	18422A	Sponge Bot	Australia	Australia	25.4	30.5	63.7	33.2	22.0
+45	45	140222	19085B	92.0	73.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5902.0	5869.0	19085B	Black Rock Middle School: Omen	Pennsylvania - East	United States	17.1	-13.1	40.4	53.5	1640.0
+46	46	114946	19991A	65.0	87.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	1889.0	1835.0	19991A	Ace Tigers	Texas - Region 4	United States	21.3	46.5	66.5	19.9	371.0
+47	47	163595	23599S	106.0	74.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	4304.0	4264.0	23599S	RoboRisers	North Carolina	United States	18.6	-1.5	37.4	38.9	1137.0
+48	48	151909	24658J	184.0	151.0	9.0	2.0	1.0	0.0	3.0	0.0	0.0	297.0	284.0	24658J	The Danny Devitos	Oklahoma	United States	24.7	16.7	55.0	38.2	37.0
+49	49	135199	26003A	138.0	99.0	8.0	1.0	2.0	1.0	0.0	2.0	0.0	1095.0	1060.0	26003A	George Drinks Water	West Virginia	United States	22.5	16.5	49.3	32.8	186.0
+50	50	148574	28006B	163.0	149.0	5.0	2.0	0.0	0.0	2.0	0.0	0.0	119.0	109.0	28006B	Robots R Us	Texas - Region 5	United States	25.9	52.7	73.4	20.8	14.0
+51	51	165864	31392B	125.0	102.0	5.0	2.0	1.0	0.0	0.0	1.0	0.0	831.0	799.0	31392B	Willow Leopards	Texas - Region 5	United States	23.0	19.4	54.4	35.0	125.0
+52	52	111440	33249C	108.0	85.0	2.0	1.0	0.0	1.0	0.0	0.0	0.0	3279.0	3221.0	33249C	Alpha Centauri	South Carolina	United States	19.7	14.8	47.2	32.4	793.0
+53	53	155538	35931S	148.0	102.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3187.0	3122.0	35931S	KMS	California - Region 2	United States	19.8	-0.7	36.5	37.2	760.0
+54	54	118728	37816D	136.0	130.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	2817.0	2772.0	37816D	Emperor Penguins	Ohio	United States	20.2	2.8	39.1	36.4	636.0
+55	55	154284	39792E	116.0	118.0	3.0	1.0	0.0	0.0	1.0	0.0	0.0	2157.0	2100.0	39792E	ECHO Aviators	Florida - South	United States	21.0	24.0	59.8	35.8	450.0
+56	56	139121	45133K	160.0	108.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5627.0	5562.0	45133K	A Train	Ohio	United States	17.4	-1.5	43.9	45.4	1528.0
+57	57	138841	50878X	140.0	133.0	3.0	0.0	1.0	1.0	0.0	1.0	0.0	2663.0	2605.0	50878X	Geometric Mangos	Virginia	United States	20.4	-8.5	34.9	43.4	592.0
+58	58	102422	54001B	199.0	183.0	4.0	1.0	0.0	0.0	0.0	0.0	0.0	1048.0	1002.0	54001B	西安市铁一中学	China	China	22.6	23.1	76.4	53.3	169.0
+59	59	72046	56772A	140.0	128.0	4.0	1.0	0.0	3.0	0.0	0.0	0.0	657.0	636.0	56772A	St. Mary Robotics	Kentucky	United States	23.5	16.9	54.0	37.2	89.0
+60	60	155529	57783A	90.0	91.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	5126.0	5050.0	57783A	The Aluminum Walrus	South Dakota	United States	17.9	-7.0	35.4	42.4	1370.0
+61	61	122766	62880B	122.0	131.0	5.0	2.0	2.0	1.0	0.0	0.0	0.0	790.0	764.0	62880B	BOAT	New York-South	United States	23.1	26.8	57.1	30.2	112.0
+62	62	143905	66465F	157.0	132.0	13.0	2.0	1.0	3.0	3.0	1.0	0.0	659.0	636.0	66465F	Buckets!	West Virginia	United States	23.5	29.6	66.4	36.8	88.0
+63	63	114710	69414Z	164.0	132.0	11.0	5.0	0.0	2.0	4.0	0.0	0.0	193.0	178.0	69414Z	5AM	Arkansas	United States	25.4	35.7	56.3	20.5	20.0
+64	64	143864	70699B	82.0	66.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2318.0	2254.0	70699B	Wolverine Robotics	Louisiana	United States	20.8	-5.5	36.5	42.0	491.0
+65	65	158825	72801P	114.0	94.0	3.0	1.0	0.0	1.0	1.0	0.0	0.0	841.0	799.0	72801P	Paladins	Arkansas	United States	23.0	22.1	55.4	33.3	118.0
+66	66	150380	74074C	155.0	122.0	6.0	0.0	0.0	0.0	1.0	4.0	0.0	1521.0	1462.0	74074C	Caustic	Oklahoma	United States	21.8	-10.5	37.7	48.2	287.0
+67	67	156380	75013C	62.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6614.0	6530.0	75013C	The Tator Tots	Texas - Region 5	United States	16.4	-19.7	37.1	56.7	1809.0
+68	68	126262	76151M	38.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9888.0	9836.0	76151M	Titanium Crab	North Dakota	United States	12.1	-28.6	26.6	55.1	2600.0
+69	69	139812	77701A	149.0	136.0	7.0	3.0	0.0	0.0	0.0	2.0	0.0	1450.0	1406.0	77701A	‍‍‍‍‍⠀⠀⠀⠀⠀	Chinese Taipei	Taiwan	21.9	4.3	45.9	41.5	274.0
+70	70	130100	78759D	143.0	113.0	7.0	3.0	1.0	1.0	0.0	1.0	0.0	546.0	523.0	78759D	Storm Bots	Texas - Region 4	United States	23.8	20.2	59.4	39.2	69.0
+71	71	135518	79298C	189.0	146.0	5.0	1.0	0.0	2.0	1.0	0.0	0.0	998.0	951.0	79298C	Clockwork	Colorado	United States	22.7	28.5	58.1	29.6	151.0
+72	72	160880	80550M	152.0	97.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3954.0	3867.0	80550M	M&M Mc Flurry	Colorado	United States	19.0	-3.1	42.0	45.1	1005.0
+73	73	88984	82391A	136.0	109.0	5.0	0.0	0.0	0.0	1.0	1.0	0.0	2172.0	2100.0	82391A	Wingin-It	Missouri	United States	21.0	-0.3	51.6	51.9	456.0
+74	74	130955	87867E	180.0	131.0	8.0	3.0	2.0	2.0	1.0	0.0	0.0	95.0	89.0	87867E	Eclipse	Texas - Region 5	United States	26.1	42.5	67.4	24.9	10.0
+75	75	165749	89676P	131.0	87.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0											
+76	76	96551	95070A	151.0	150.0	2.0	0.0	0.0	2.0	0.0	0.0	0.0	2592.0	2506.0	95070A	Redwood Robotics	California - Region 2	United States	20.5	3.3	42.4	39.0	568.0
+77	77	73990	97311F	146.0	99.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	1057.0	1002.0	97311F	Champion Pirates	Michigan	United States	22.6	12.1	51.8	39.7	165.0
+78	78	163968	98548N	136.0	78.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4934.0	4834.0	98548N	NightHawks	Utah	United States	18.1	-10.3	39.3	49.6	1301.0
+79	79	102975	99157B	132.0	116.0	6.0	1.0	0.0	0.0	1.0	0.0	0.0	1403.0	1337.0	99157B	IronMechs 2.0	Virginia	United States	22.0	-6.5	40.1	46.6	254.0
+80	80	143660	99750Z	122.0	111.0	6.0	2.0	0.0	2.0	0.0	1.0	0.0	2504.0	2417.0	99750Z	Sparta's Warriors	Minnesota	United States	20.6	4.1	48.3	44.1	533.0
